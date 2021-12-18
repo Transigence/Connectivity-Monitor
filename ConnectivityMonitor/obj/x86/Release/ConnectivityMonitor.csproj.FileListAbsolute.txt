@@ -1,0 +1,5 @@
+C:\Users\Paul\AppData\Local\Temporary Projects\ConnectivityMonitor\bin\Release\ConnectivityMonitor.exe
+C:\Users\Paul\AppData\Local\Temporary Projects\ConnectivityMonitor\bin\Release\ConnectivityMonitor.pdb
+C:\Users\Paul\AppData\Local\Temporary Projects\ConnectivityMonitor\obj\x86\Release\ResolveAssemblyReference.cache
+C:\Users\Paul\AppData\Local\Temporary Projects\ConnectivityMonitor\obj\x86\Release\ConnectivityMonitor.exe
+C:\Users\Paul\AppData\Local\Temporary Projects\ConnectivityMonitor\obj\x86\Release\ConnectivityMonitor.pdb

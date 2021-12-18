@@ -1,0 +1,16 @@
+C:\Users\Paul\AppData\Local\Temporary Projects\ConnectivityMonitor\bin\Debug\ConnectivityMonitor.exe
+C:\Users\Paul\AppData\Local\Temporary Projects\ConnectivityMonitor\bin\Debug\ConnectivityMonitor.pdb
+C:\Users\Paul\AppData\Local\Temporary Projects\ConnectivityMonitor\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Paul\AppData\Local\Temporary Projects\ConnectivityMonitor\obj\x86\Debug\ConnectivityMonitor.exe
+C:\Users\Paul\AppData\Local\Temporary Projects\ConnectivityMonitor\obj\x86\Debug\ConnectivityMonitor.pdb
+C:\Users\Paul\documents\visual studio 2010\Projects\ConnectivityMonitor\ConnectivityMonitor\obj\x86\Debug\ConnectivityMonitor.exe
+C:\Users\Paul\documents\visual studio 2010\Projects\ConnectivityMonitor\ConnectivityMonitor\obj\x86\Debug\ConnectivityMonitor.pdb
+C:\Users\Paul\documents\visual studio 2010\Projects\ConnectivityMonitor\ConnectivityMonitor\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Paul\documents\visual studio 2010\Projects\ConnectivityMonitor\ConnectivityMonitor\bin\Debug\ConnectivityMonitor.exe
+C:\Users\Paul\documents\visual studio 2010\Projects\ConnectivityMonitor\ConnectivityMonitor\bin\Debug\ConnectivityMonitor.pdb
+F:\Dropbox\Projects\ConnectivityMonitor\ConnectivityMonitor\bin\Debug\ConnectivityMonitor.exe
+F:\Dropbox\Projects\ConnectivityMonitor\ConnectivityMonitor\bin\Debug\ConnectivityMonitor.pdb
+F:\Dropbox\Projects\ConnectivityMonitor\ConnectivityMonitor\obj\x86\Debug\ConnectivityMonitor.csproj.AssemblyReference.cache
+F:\Dropbox\Projects\ConnectivityMonitor\ConnectivityMonitor\obj\x86\Debug\ConnectivityMonitor.csproj.CoreCompileInputs.cache
+F:\Dropbox\Projects\ConnectivityMonitor\ConnectivityMonitor\obj\x86\Debug\ConnectivityMonitor.exe
+F:\Dropbox\Projects\ConnectivityMonitor\ConnectivityMonitor\obj\x86\Debug\ConnectivityMonitor.pdb
